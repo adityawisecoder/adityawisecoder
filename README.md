@@ -17,5 +17,17 @@ Here are some ideas to get you started:
 
 #### Greetings🙏 Hope you're doing well😊 <br /> I'm Aditya Krishna, a Software Developer🚀 from India.
 
+<br />
 
 Main content here!
+
+<br />
+
+---
+QuoteCARD goes here!
+---
+
+<!--
+Create your own quotecard redirect link with redirect symbol (top right arrow)
+Link to your GitHub QuoteCard repo
+-->
