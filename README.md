@@ -17,17 +17,23 @@ Here are some ideas to get you started:
 
 #### Greetings🙏 Hope you're doing well😊 <br /> I'm Aditya Krishna, a Software Developer🚀 from India.
 
+
+<!-- Main content here! -->
+### Areas of Interest
+⚡ Full Stack Web Development<br />
+⚡ Blockchain<br />
+⚡ Data Science & Machine Learning
+
+
 <br />
 
-Main content here!
 
-<br />
-
----
-QuoteCARD goes here!
----
 
 <!--
 Create your own quotecard redirect link with redirect symbol (top right arrow)
 Link to your GitHub QuoteCard repo
 -->
+
+![image](https://user-images.githubusercontent.com/72189258/177047944-5c726e10-af92-46a2-a738-1f53952e2e8a.png)
+
+[Get your Quote Card↗️](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
