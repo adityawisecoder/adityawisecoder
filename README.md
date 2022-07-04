@@ -24,16 +24,16 @@ Here are some ideas to get you started:
 ⚡ Blockchain<br />
 ⚡ Data Science & Machine Learning
 
+<!-- ### Superpowers
+⚡ TypeScript<br />
+⚡ Solidity<br />
+⚡ Python -->
 
 <br />
 
 <img src="https://quotecard.herokuapp.com/" alt="Quotes Card" width="100%" height="100%"/>
-<!--
-Create your own quotecard redirect link with redirect symbol (top right arrow)
-Link to your GitHub QuoteCard repo
--->
 
-![image](https://user-images.githubusercontent.com/72189258/177047944-5c726e10-af92-46a2-a738-1f53952e2e8a.png)
-
-<a align="right" href="https://github.com/amazing-AK/quotecard">Get your Quote Card↗️<a/>
-[Get your Quote Card↗️](https://github.com/amazing-AK/quotecard)
+<h4 align="right">
+  <a href="https://github.com/amazing-AK/quotecard">Get your Quote Card!📑</a>
+</h4>
+ 
