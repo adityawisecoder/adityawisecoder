@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 <!-- Main content here! -->
 ### Areas of Interest
-⚡ Full Stack Web Development<br />
+⚡ Data Science & Machine Learning<br />
 ⚡ Blockchain<br />
-⚡ Data Science & Machine Learning
+⚡ Full Stack Web Development
 
 <!-- ### Superpowers
 ⚡ TypeScript<br />
