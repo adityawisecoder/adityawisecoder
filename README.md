@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 <img src="https://quotecard.herokuapp.com/" alt="Quotes Card" width="100%" height="100%"/>
 
 <h4 align="right">
-  <a href="https://github.com/amazing-AK/quotecard">Get your Quote Card!📑</a>
+  <a href="https://github.com/adityawisecoder/quotecard">Get your Quote Card!📑</a>
 </h4>
  
