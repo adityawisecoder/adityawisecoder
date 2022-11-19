@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![Simple banner](https://user-images.githubusercontent.com/72189258/175782338-58826573-9aac-475f-a31e-272b77103a12.png)
 
-#### Greetings🙏 Hope you're doing well😊 <br /> I'm Aditya Krishna, a Software Developer🚀 from India.
+#### Greetings🙏 Hope you're doing well😊 <br /> I'm Aditya Krishna, a Software Engineer🚀 from India.
 
 
 <!-- Main content here! -->
