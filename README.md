@@ -12,8 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--  
 ![Simple banner](https://user-images.githubusercontent.com/72189258/175782338-58826573-9aac-475f-a31e-272b77103a12.png)
+-->
+<img src="https://quotecard.cyclic.app/api" alt="Quotes Card" width="100%" height="100%"/>
+
+<p align="right">
+  <a href="https://github.com/adityawisecoder/quotecard/" target="_blank">Get your Quote Card!📑</a>
+</p>
 
 #### Greetings🙏 Hope you're doing well😊 <br /> I'm Aditya Krishna, a Software Engineer🚀 from India.
 
@@ -31,9 +37,5 @@ Here are some ideas to get you started:
 
 <br />
 
-<img src="https://quotecard.cyclic.app/api" alt="Quotes Card" width="100%" height="100%"/>
 
-<h4 align="right">
-  <a href="https://github.com/adityawisecoder/quotecard/" target="_blank">Get your Quote Card!📑</a>
-</h4>
  
