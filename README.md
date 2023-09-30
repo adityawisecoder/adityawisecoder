@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/adityawisecoder/quotecard/" target="_blank">Get your Quote Card!📑</a>
 </p>
 
-#### Greetings🙏 Hope you're doing well😊 <br /> I'm Aditya Krishna, a Software Engineer🚀 from India.
+#### Greetings🙏 Hope you're doing well😊 <br /> I'm Aditya Krishna, a Software Engineer🚀
 
 
 <!-- Main content here! -->
