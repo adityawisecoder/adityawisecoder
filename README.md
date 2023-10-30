@@ -21,14 +21,16 @@ Here are some ideas to get you started:
   <a href="https://github.com/adityawisecoder/quotecard/" target="_blank">Get your Quote Card!📑</a>
 </p>
 
-#### Greetings🙏 Hope you're doing well😊 <br /> I'm Aditya Krishna, a Software Engineer🚀
+#### Greetings🙏 Hope you're doing well🌞 <br /> I'm Aditya Krishna, a Software Engineer🚀
 
-Projects: Visit https://adityakrishna.netlify.app/projects
+<br />
+
+Check out my [Projects](https://adityakrishna.netlify.app/projects)🏹
 
 <!-- Main content here! -->
 ### Areas of Interest
-⚡ Data Science & Machine Learning<br />
-⚡ Blockchain<br />
+⚡ Data Science & Machine Learning <br />
+⚡ Blockchain <br />
 ⚡ Full Stack Web Development
 
 <!-- ### Superpowers
